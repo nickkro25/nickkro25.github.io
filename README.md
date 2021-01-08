@@ -9,6 +9,7 @@ My favorite programming language is Java, because it is the one I know best.
 [Terraria wiki](https://terraria.gamepedia.com/Terraria_Wiki)
 
 [link to end of file](#end-of-webpage)
+![realtive link](relative.md)
 
 **Second year computer science student at UCSD**
 
