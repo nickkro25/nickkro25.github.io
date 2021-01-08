@@ -23,7 +23,7 @@ My favorite programming language is Java, because it is the one I know best.
 ```
 System.out.println("Nick is a good programmer");
 ```
-![realtive link to a picture of a happy croc](happy-croc-in-donut.jpg)
+![realtive link to a picture of a happy croc](croc.jpg)
 
 
 ```markdown
